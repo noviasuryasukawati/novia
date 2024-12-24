@@ -20,7 +20,6 @@
     <main>
         <h2>Why Choose Paperless Office?</h2>
         <p>Transitioning to a paperless office can save resources, improve efficiency, and benefit the environment.</p>
-        and
     </main>
     <footer>
         <p>&copy; 2024 Paperless Office</p>
